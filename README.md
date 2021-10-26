@@ -1,3 +1,3 @@
 # Geoble
 
-## Developed by CS Tech-Solutions
+## Developed by CS Soft Innovations
